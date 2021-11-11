@@ -1,0 +1,3 @@
+conda install -c conda-forge jupyterthemes #load themes
+jt -l # availeble themes
+jt -t themes name #set themes Example: jt -t monokai
